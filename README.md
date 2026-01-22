@@ -1,0 +1,5 @@
+Project Description
+
+This project implements two graph traversal algorithms, Dijkstra and Breadth-First Search (BFS), to find paths between cities using a weighted graph representation. The program reads city-to-city distance data from an input file (cities.txt), where each line describes a connection between two cities along with the distance between them in kilometers. Based on this data, the program constructs an undirected graph with a maximum size of 60 cities and allows the user to select a source city for shortest path computation.
+
+After selecting a destination city, the program displays the complete route from the source to the destination, including the distance between each pair of consecutive cities and the total path cost. The results of Dijkstra and BFS are compared in terms of total cost and execution time. While Dijkstra computes the minimum-distance path in the weighted graph, BFS finds the shortest path based on the number of edges (hops). Finally, the program saves the output to a file named shortest_path.txt upon exiting.
