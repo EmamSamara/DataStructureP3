@@ -1,0 +1,16 @@
+Jerusalem#Gaza#41
+Akka#Haifa#35
+Jenin#Qalqilya#23
+Gaza#Hebron#32
+Bethlehem#Jerusalem#9
+Bethlehem#Jericho#41
+Haifa#Nazareth#6
+Akka#Jenin#74
+Haifa#Tulkarem#15
+Hebron#Jericho#50
+Hebron#Jerusalem#34
+Jenin#Tulkarem#20
+Jenin#Nablus#24
+Jericho#Jerusalem#28
+Jericho#Ramallah#33
+Haifa#Jenin#49

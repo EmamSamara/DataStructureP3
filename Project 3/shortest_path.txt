@@ -1,0 +1,21 @@
+Source: Ramallah
+Destination: Bethlehem
+
+Dijkstra time: 0.000 ms
+BFS time: 0.000 ms
+
+Minimum cost (Dijkstra): 70 km
+BFS total cost (based on hops path): 74 km
+
+Dijkstra path:
+Ramallah -> Jericho (33 km)
+Jericho -> Jerusalem (28 km)
+Jerusalem -> Bethlehem (9 km)
+Total cost: 70 km
+
+Note: BFS finds the shortest path by number of edges (hops), not total distance.
+BFS path:
+Ramallah -> Jericho (33 km)
+Jericho -> Bethlehem (41 km)
+Total cost: 74 km
+
